@@ -1,0 +1,12 @@
+{
+  "name": "learn-express",
+  "version": "1.0.0",
+  "description": "Learning express.js framework",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Reyanus Salehin",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
